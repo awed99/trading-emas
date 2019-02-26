@@ -1,0 +1,7 @@
+{
+  "name": "Trading Emas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
